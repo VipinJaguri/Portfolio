@@ -1,6 +1,12 @@
-title: Minimal theme
+title: <p align="center"> Vipin Jaguri </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="https://github.com/VipinJaguri">GitHub</a>
+  
+  <br>   
+  I'm  currently working in a defense PSU on VoIP, SIP, Embedded Systems and HDL.
+  Working on projects with IAF for last 5 years. 
+  <br>
+  </p>
