@@ -1,5 +1,5 @@
 
-# Data Science Portfolio
+# AI & Machine Learning
 
 ## Machine learning
 
